@@ -3,8 +3,8 @@
   --background: #00008B;
   --secondary: #262626;
   --link: #f54254;
-  --text-color: #0000FF;
-  --secondary-text-color: #0000FF;
+  --text-color: white;
+  --secondary-text-color: pink;
 }
 
 /* scroll bar */
