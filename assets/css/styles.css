@@ -1,6 +1,6 @@
 :root {
-  --main-color: #f54254;
-  --background: #1d1d1e;
+  --main-color: #00FFFF;
+  --background: #00FFFF;
   --secondary: #262626;
   --link: #f54254;
   --text-color: #fff;
@@ -48,7 +48,7 @@
 }
 
 .footer-dark .item.social > a:hover {
-  background-color: #474350;
+  background-color: #00FFFF;
 }
 
 .footer-dark .copyright {
