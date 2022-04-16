@@ -1,20 +1,20 @@
 :root {
-  --main-color: #00FFFF;
-  --background: #00FFFF;
+  --main-color: #00008B;
+  --background: #00008B;
   --secondary: #262626;
   --link: #f54254;
-  --text-color: #00008B;
-  --secondary-text-color: #00008B;
+  --text-color: #0000FF;
+  --secondary-text-color: #0000FF;
 }
 
 /* scroll bar */
 
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 12px;
 }
 
 ::-webkit-scrollbar-track {
-  background: black;
+  background: purple;
 }
 
 ::-webkit-scrollbar-thumb {
